@@ -333,14 +333,14 @@ export default function JasonPortfolio() {
           <Reveal>
             <SectionLabel>Get in Touch</SectionLabel>
             <div className="flex flex-wrap gap-x-10 gap-y-4">
-              <a href="mailto:you@example.com" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
-                <Mail size={16} style={{ color: colors.teal }} /> you@example.com
+              <a href="mailto:kuatejason1@gmail.com" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
+                <Mail size={16} style={{ color: colors.teal }} /> kuatejason1@gmail.com
               </a>
-              <a href="#" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
-                <Github size={16} style={{ color: colors.teal }} /> github.com/yourhandle
+              <a href="https://github.com/JK-codify" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
+                <Github s ize={16} style={{ color: colors.teal }} /> JK-codify
               </a>
-              <a href="#" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
-                <Linkedin size={16} style={{ color: colors.teal }} /> linkedin.com/in/yourhandle
+              <a href="https://linkedin.com/in/jason-kuate-a61577356" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
+                <Linkedin size={16} style={{ color: colors.teal }} /> jason-kuate
               </a>
               <span className="flex items-center gap-2 text-sm" style={{ color: colors.textDim }}>
                 <MapPin size={16} style={{ color: colors.teal }} /> Yaoundé, Centre
