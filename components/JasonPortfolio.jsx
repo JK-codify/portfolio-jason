@@ -5,6 +5,8 @@ import {
   Mail,
   Github,
   Linkedin,
+  Facebook,
+  Twitter,
   MapPin,
   GraduationCap,
   ArrowRight,
@@ -341,6 +343,12 @@ export default function JasonPortfolio() {
               </a>
               <a href="https://linkedin.com/in/jason-kuate-a61577356" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
                 <Linkedin size={16} style={{ color: colors.teal }} /> jason-kuate
+              </a>
+              <a href="https://facebook.com/kuate.jason.jason" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
+                <Facebook size={16} style={{ color: colors.teal }} /> kuate.jason.jason
+              </a>
+              <a href="https://x.com/Jason_Kuate" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm hover:text-white transition-colors" style={{ color: colors.textDim }}>
+                <Twitter size={16} style={{ color: colors.teal }} /> Jason_Kuate  
               </a>
               <span className="flex items-center gap-2 text-sm" style={{ color: colors.textDim }}>
                 <MapPin size={16} style={{ color: colors.teal }} /> Yaoundé, Centre
